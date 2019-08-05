@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{A2453BCE-3728-4E0D-B7A1-2D7E421AD2BD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Staj_Projem_console/Program.cs">
+    <Files>
+      <File FileName="Staj_Projem_console/Program.cs" Line="58" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Staj__Projem__console PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

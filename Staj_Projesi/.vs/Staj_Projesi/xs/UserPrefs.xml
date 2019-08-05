@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{F4925D6D-8463-477C-A79D-55F5DC1CC5C1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Staj_Projesi/gtk-gui/MainWindow.cs">
+    <Files>
+      <File FileName="Staj_Projesi/Program.cs" Line="1" Column="1" />
+      <File FileName="Staj_Projesi/MainWindow.cs" Line="1" Column="1" />
+      <File FileName="Staj_Projesi/gtk-gui/MainWindow.cs" Line="337" Column="60" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Staj__Projesi PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../Staj_Projesi/gtk-gui/MainWindow.cs" line="481" offsetX="1043" offsetY="6720" expression="WL_Change_Temp.value" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/home/mustafa/Projects/Yeni Dizin/Staj_Projesi/Staj_Projesi/gtk-gui/MainWindow.cs" relfile="Staj_Projesi/gtk-gui/MainWindow.cs" line="216" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

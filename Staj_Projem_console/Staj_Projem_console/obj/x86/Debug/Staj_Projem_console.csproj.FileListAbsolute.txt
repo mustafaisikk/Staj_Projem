@@ -1,0 +1,18 @@
+/home/mustafa/Projects/Staj_Projem_console/Staj_Projem_console/bin/Debug/Staj_Projem_console.exe
+/home/mustafa/Projects/Staj_Projem_console/Staj_Projem_console/bin/Debug/Staj_Projem_console.pdb
+/home/mustafa/Projects/Staj_Projem_console/Staj_Projem_console/obj/x86/Debug/Staj_Projem_console.csprojAssemblyReference.cache
+/home/mustafa/Projects/Staj_Projem_console/Staj_Projem_console/obj/x86/Debug/Staj_Projem_console.csproj.CoreCompileInputs.cache
+/home/mustafa/Projects/Staj_Projem_console/Staj_Projem_console/obj/x86/Debug/Staj_Projem_console.exe
+/home/mustafa/Projects/Staj_Projem_console/Staj_Projem_console/obj/x86/Debug/Staj_Projem_console.pdb
+/home/mustafa/Projects/Staj_Projem_console/Staj_Projem_console/bin/Debug/LogElements.dll
+/home/mustafa/Projects/Staj_Projem_console/Staj_Projem_console/bin/Debug/LogElements.pdb
+/home/mustafa/Projects/Staj_Projem_console/Staj_Projem_console/obj/x86/Debug/Staj_Projem_console.csproj.CopyComplete
+/home/mustafa/Projects/Yeni Dizin/Staj_Projem_console/Staj_Projem_console/obj/x86/Debug/Staj_Projem_console.csprojAssemblyReference.cache
+/home/mustafa/Projects/Yeni Dizin/Staj_Projem_console/Staj_Projem_console/obj/x86/Debug/Staj_Projem_console.csproj.CoreCompileInputs.cache
+/home/mustafa/Projects/Yeni Dizin/Staj_Projem_console/Staj_Projem_console/bin/Debug/Staj_Projem_console.exe
+/home/mustafa/Projects/Yeni Dizin/Staj_Projem_console/Staj_Projem_console/bin/Debug/Staj_Projem_console.pdb
+/home/mustafa/Projects/Yeni Dizin/Staj_Projem_console/Staj_Projem_console/obj/x86/Debug/Staj_Projem_console.csproj.CopyComplete
+/home/mustafa/Projects/Yeni Dizin/Staj_Projem_console/Staj_Projem_console/obj/x86/Debug/Staj_Projem_console.exe
+/home/mustafa/Projects/Yeni Dizin/Staj_Projem_console/Staj_Projem_console/obj/x86/Debug/Staj_Projem_console.pdb
+/home/mustafa/Projects/Yeni Dizin/Staj_Projem_console/Staj_Projem_console/bin/Debug/My_Library.dll
+/home/mustafa/Projects/Yeni Dizin/Staj_Projem_console/Staj_Projem_console/bin/Debug/My_Library.pdb

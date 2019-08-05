@@ -1,0 +1,27 @@
+/home/mustafa/Projects/Staj_Projesi/Staj_Projesi/bin/Debug/Staj_Projesi.exe
+/home/mustafa/Projects/Staj_Projesi/Staj_Projesi/bin/Debug/Staj_Projesi.pdb
+/home/mustafa/Projects/Staj_Projesi/Staj_Projesi/obj/x86/Debug/Staj_Projesi.csprojAssemblyReference.cache
+/home/mustafa/Projects/Staj_Projesi/Staj_Projesi/obj/x86/Debug/Staj_Projesi.csproj.CoreCompileInputs.cache
+/home/mustafa/Projects/Staj_Projesi/Staj_Projesi/obj/x86/Debug/Staj_Projesi.exe
+/home/mustafa/Projects/Staj_Projesi/Staj_Projesi/obj/x86/Debug/Staj_Projesi.pdb
+/home/mustafa/Projects/Staj_Projesi/Staj_Projesi/bin/Debug/LogElements.dll
+/home/mustafa/Projects/Staj_Projesi/Staj_Projesi/bin/Debug/LogElements.pdb
+/home/mustafa/Projects/Staj_Projesi/Staj_Projesi/obj/x86/Debug/Staj_Projesi.csproj.CopyComplete
+/home/mustafa/Projects/Yeni Dizin2/Staj_Projesi/Staj_Projesi/bin/Debug/Staj_Projesi.exe
+/home/mustafa/Projects/Yeni Dizin2/Staj_Projesi/Staj_Projesi/bin/Debug/Staj_Projesi.pdb
+/home/mustafa/Projects/Yeni Dizin2/Staj_Projesi/Staj_Projesi/bin/Debug/LogElements.pdb
+/home/mustafa/Projects/Yeni Dizin2/Staj_Projesi/Staj_Projesi/bin/Debug/Staj_Projem_Arg.pdb
+/home/mustafa/Projects/Yeni Dizin2/Staj_Projesi/Staj_Projesi/obj/x86/Debug/Staj_Projesi.csprojAssemblyReference.cache
+/home/mustafa/Projects/Yeni Dizin2/Staj_Projesi/Staj_Projesi/obj/x86/Debug/Staj_Projesi.csproj.CoreCompileInputs.cache
+/home/mustafa/Projects/Yeni Dizin2/Staj_Projesi/Staj_Projesi/obj/x86/Debug/Staj_Projesi.csproj.CopyComplete
+/home/mustafa/Projects/Yeni Dizin2/Staj_Projesi/Staj_Projesi/obj/x86/Debug/Staj_Projesi.exe
+/home/mustafa/Projects/Yeni Dizin2/Staj_Projesi/Staj_Projesi/obj/x86/Debug/Staj_Projesi.pdb
+/home/mustafa/Projects/Yeni Dizin/Staj_Projesi/Staj_Projesi/bin/Debug/Staj_Projesi.exe
+/home/mustafa/Projects/Yeni Dizin/Staj_Projesi/Staj_Projesi/bin/Debug/Staj_Projesi.pdb
+/home/mustafa/Projects/Yeni Dizin/Staj_Projesi/Staj_Projesi/obj/x86/Debug/Staj_Projesi.csprojAssemblyReference.cache
+/home/mustafa/Projects/Yeni Dizin/Staj_Projesi/Staj_Projesi/obj/x86/Debug/Staj_Projesi.csproj.CoreCompileInputs.cache
+/home/mustafa/Projects/Yeni Dizin/Staj_Projesi/Staj_Projesi/obj/x86/Debug/Staj_Projesi.csproj.CopyComplete
+/home/mustafa/Projects/Yeni Dizin/Staj_Projesi/Staj_Projesi/obj/x86/Debug/Staj_Projesi.exe
+/home/mustafa/Projects/Yeni Dizin/Staj_Projesi/Staj_Projesi/obj/x86/Debug/Staj_Projesi.pdb
+/home/mustafa/Projects/Yeni Dizin/Staj_Projesi/Staj_Projesi/bin/Debug/My_Library.dll
+/home/mustafa/Projects/Yeni Dizin/Staj_Projesi/Staj_Projesi/bin/Debug/My_Library.pdb

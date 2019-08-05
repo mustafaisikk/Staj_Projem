@@ -1,0 +1,18 @@
+/home/mustafa/Projects/My_Library/My_Library/bin/Debug/netcoreapp2.2/My_Library.deps.json
+/home/mustafa/Projects/My_Library/My_Library/bin/Debug/netcoreapp2.2/My_Library.dll
+/home/mustafa/Projects/My_Library/My_Library/bin/Debug/netcoreapp2.2/My_Library.pdb
+/home/mustafa/Projects/My_Library/My_Library/obj/Debug/netcoreapp2.2/My_Library.csprojAssemblyReference.cache
+/home/mustafa/Projects/My_Library/My_Library/obj/Debug/netcoreapp2.2/My_Library.csproj.CoreCompileInputs.cache
+/home/mustafa/Projects/My_Library/My_Library/obj/Debug/netcoreapp2.2/My_Library.AssemblyInfoInputs.cache
+/home/mustafa/Projects/My_Library/My_Library/obj/Debug/netcoreapp2.2/My_Library.AssemblyInfo.cs
+/home/mustafa/Projects/My_Library/My_Library/obj/Debug/netcoreapp2.2/My_Library.dll
+/home/mustafa/Projects/My_Library/My_Library/obj/Debug/netcoreapp2.2/My_Library.pdb
+/home/mustafa/Projects/Yeni Dizin/My_Library/My_Library/bin/Debug/netcoreapp2.2/My_Library.deps.json
+/home/mustafa/Projects/Yeni Dizin/My_Library/My_Library/bin/Debug/netcoreapp2.2/My_Library.dll
+/home/mustafa/Projects/Yeni Dizin/My_Library/My_Library/bin/Debug/netcoreapp2.2/My_Library.pdb
+/home/mustafa/Projects/Yeni Dizin/My_Library/My_Library/obj/Debug/netcoreapp2.2/My_Library.csprojAssemblyReference.cache
+/home/mustafa/Projects/Yeni Dizin/My_Library/My_Library/obj/Debug/netcoreapp2.2/My_Library.csproj.CoreCompileInputs.cache
+/home/mustafa/Projects/Yeni Dizin/My_Library/My_Library/obj/Debug/netcoreapp2.2/My_Library.AssemblyInfoInputs.cache
+/home/mustafa/Projects/Yeni Dizin/My_Library/My_Library/obj/Debug/netcoreapp2.2/My_Library.AssemblyInfo.cs
+/home/mustafa/Projects/Yeni Dizin/My_Library/My_Library/obj/Debug/netcoreapp2.2/My_Library.dll
+/home/mustafa/Projects/Yeni Dizin/My_Library/My_Library/obj/Debug/netcoreapp2.2/My_Library.pdb
