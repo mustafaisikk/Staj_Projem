@@ -17,12 +17,9 @@ namespace Staj_Projem_console
         public static List<XElementsP> XElementsPL;
         public static void Main(string[] args)
         {
-            string FilePath_G = @"/home/mustafa/Masaüstü/sh/YeniDizin/logs";
-            //args[0];
-            string TcTLO_N = @"/home/mustafa/Belgeler/son/YeniDizin/LogTextList.TcTLO";
-            //args[1];
-            string FilePath = @"/home/mustafa/Belgeler/son/YeniDizin/log.csv";
-            //args[2];
+            string FilePath_G = args[0];
+            string TcTLO_N = args[1];
+            string FilePath = args[2];
 
             Staj_Projem_ARGS ARGS = new Staj_Projem_ARGS();
 
